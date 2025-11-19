@@ -1,0 +1,29 @@
+# pdfplumber 
+
+
+
+
+
+unstructured
+pi_heif
+unstructured_inference
+pytesseract
+unstructured_pytesseract
+faiss-cpu
+# unstructured[all-docs]
+# onnx==1.16.1
+# protobuf==3.20.3
+# Pillow
+# numpy
+
+nltk
+ollama
+chromadb
+streamlit
+pdfplumber
+
+langchain
+langchain-core
+langchain-ollama
+langchain_community
+langchain_text_splitters
